@@ -1,98 +1,75 @@
 # Diego Navarro
 ### Cloud Security Engineer | DevOps Specialist | Multi-Cloud Architect
 
-[![Website](https://img.shields.io/badge/Website-diegonavarro.dev-blue?style=flat-square)](https://diegonavarro.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diego-navarro-b00a411a9/)
-[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/certification)
+<p align="center">
+  <a href="https://diegonavarro.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-diegonavarro.dev-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diego-navarro-b00a411a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.credly.com/users/diego-a-navarro/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-Certified_Professional-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud Certified"/>
+  </a>
+</p>
 
 ---
 
-## Professional Overview
+### Professional Overview
 
-Innovative Cloud Security Engineer with over a decade of experience transforming and scaling technology infrastructure for enterprise organizations. I specialize in designing secure, scalable, and cost-effective cloud architectures that drive operational efficiency and business growth.
+Innovative Cloud Security Engineer with over a decade of experience transforming technology infrastructure for enterprise organizations. I specialize in designing secure, scalable, and cost-effective cloud architectures that drive operational efficiency and business growth.
 
-**Key Achievements:**
-Led successful migration of legacy systems to cloud infrastructure, achieving 40% reduction in operational costs. Implemented automated security scanning and remediation systems for container infrastructure. Developed comprehensive DevOps practices across multi-cloud environments. Architected machine learning solutions and AI project deployments at enterprise scale.
+**Key Achievements:** Led successful cloud migrations, achieving a **40% reduction in operational costs**. Implemented automated security scanning for container infrastructure. Developed comprehensive DevOps practices across multi-cloud environments. Architected enterprise-scale machine learning and AI project deployments.
 
-**Professional Background:**
-Accumulated 10+ years of experience with Git and Linux systems administration. Specialized expertise in DevOps practices and automation spans 7+ years. Google Cloud Certified Professional with hands-on experience across GCP, AWS, and Azure. Former team member at industry leaders including IBM and Lyft/Uber.
+**Professional Background:** 10+ years with Git & Linux, 7+ years in DevOps. Former team member at industry leaders including **IBM** and **Lyft/Uber**.
 
 ---
 
-## Technical Expertise
+### Technical Expertise
 
-**Cloud Platforms & Infrastructure**
-- Multi-cloud architecture design and implementation (GCP, AWS, Azure)
-- Infrastructure as Code using Terraform and CloudFormation
-- Container orchestration with Kubernetes and Docker
-- Serverless computing and microservices architecture
+<p align="center">
+  <strong>Core Technologies:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,git,bash" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,go,githubactions,ansible,grafana,prometheus,trivy,idea" />
+  </a>
+</p>
 
-**Security & Compliance**
-- Role-Based Access Control (RBAC) implementation
-- Threat detection and vulnerability management
-- Security automation and compliance monitoring
-- Container security and image scanning
-
-**Development & Automation**
-- Full-stack development with modern frameworks
-- CI/CD pipeline design and implementation
-- Configuration management and deployment automation
-- Monitoring, logging, and observability solutions
-
-**Emerging Technologies**
-- Machine Learning pipeline development
-- Large Language Model (LLM) deployment and optimization
-- AI project architecture and implementation
-- MLOps practices and model lifecycle management
+*   **Cloud & Infrastructure:** Multi-cloud (GCP, AWS, Azure), IaC (Terraform), Containers (Kubernetes, Docker), Serverless.
+*   **Security & Compliance:** Threat Detection (Trivy, Falco), RBAC, DevSecOps Automation, Container Security.
+*   **Development & Automation:** CI/CD (GitHub Actions), Config Management (Ansible), Observability (Prometheus, Grafana).
+*   **Emerging Technologies:** MLOps (Kubeflow), LLM Deployment, AI Project Architecture.
 
 ---
 
-## Featured Projects
+### Featured Portfolio & Projects
 
-### 🚀 Cloud Migration Toolkit
-Enterprise-grade tools and methodologies for seamless cloud transitions, featuring Infrastructure as Code templates and automated migration scripts.
-
-### 🔒 Security Automation Framework
-Comprehensive security scanning and remediation system designed for container infrastructure, including vulnerability assessment and compliance checking.
-
-### ⚙️ DevOps Pipeline Templates
-Production-ready CI/CD configurations, Docker containerization examples, and Kubernetes deployment manifests for scalable application delivery.
-
-### 🤖 Machine Learning Infrastructure
-LLM deployment configurations, ML pipeline implementations, and AI project documentation demonstrating enterprise-scale machine learning operations.
+<details open>
+<summary><strong><g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji> Vulnerability Deep Dive: "Dirty Pipe" Exploit (CVE-2022-0847)</strong></summary>
+<br>
+A hands-on analysis and replication of the "Dirty Pipe" privilege escalation vulnerability, packaged in a safe and isolated Docker environment.
+<br><br>
+<i>Demonstrates a fundamental understanding of kernel-level vulnerabilities and their impact on containerized environments. This is my most significant public project.</i>
+<br><br>
+<b><a href="https://github.com/mrchucu1/CVE-2022-0847-Docker">➡️ View on GitHub</a></b>
+</details>
 
 ---
 
-## GitHub Statistics
+### GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrchucu1&show_icons=true&theme=default&hide_border=true" alt="Diego's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchucu1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchucu1&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrchucu1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchucu1&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchucu1&theme=dracula" />
+</p>
 
 ---
 
-## Professional Philosophy
+### Professional Philosophy & Contact
 
-I believe in building technology solutions that prioritize security, scalability, and operational efficiency. My approach combines deep technical expertise with practical business acumen, ensuring that infrastructure investments deliver measurable value while maintaining the highest security standards.
+I believe in building technology that prioritizes security, scalability, and business value. I am passionate about mentoring teams and contributing to the open-source community.
 
-My experience spans the complete technology lifecycle, from initial architecture design through deployment, monitoring, and optimization. I am passionate about mentoring teams, sharing knowledge, and contributing to the broader technology community through open-source initiatives and technical documentation.
-
----
-
-## Current Focus
-
-I am actively exploring the intersection of cloud infrastructure and artificial intelligence, particularly in areas of MLOps, automated security remediation, and cost optimization through intelligent resource management. My current projects emphasize practical applications of machine learning in enterprise cloud environments.
-
----
-
-## Collaboration & Contact
-
-I welcome opportunities to collaborate on innovative cloud security projects, contribute to open-source initiatives, and share knowledge with the technology community. For professional inquiries or technical discussions, please visit my website or connect through the links provided above.
-
-**Areas of Interest for Collaboration:**
-Cloud security and compliance automation, DevSecOps implementation and best practices, machine learning infrastructure and MLOps, and open-source cloud tools and utilities represent my primary areas of focus for collaborative opportunities.
+For professional inquiries, please **[connect with me on LinkedIn](https://www.linkedin.com/in/diego-navarro-b00a411a9/)**.
