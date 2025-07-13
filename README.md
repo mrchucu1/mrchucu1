@@ -30,9 +30,9 @@ Innovative Cloud Security Engineer with over a decade of experience transforming
 <p align="center">
   <strong>Core Technologies:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,git, github,bash" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,go,githubactions,ansible,grafana,prometheus,trivy,idea" />
+    <img src="https://skillicons.dev/icons?i=python,go,githubactions,ansible,grafana,prometheus, elixir,idea" />
   </a>
 </p>
 
