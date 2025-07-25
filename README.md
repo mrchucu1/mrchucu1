@@ -56,6 +56,17 @@ Hands-on recreation of React in rust using WSAM as the base For Virtual DOM
 <b><a href="https://github.com/mrchucu1/rusty-react">➡️ View on GitHub</a></b>
 </details>
 
+
+<details open>
+<summary><strong><g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji> Hardvard resume template: auto compile with GA</strong></summary>
+<br>
+Automated compilation, and release create with asset upload. Create your resume without using any tools. All in your browser.
+<br><br>
+<i>Demonstrates a fundamental understanding of GitHub actions core capabilities, easy to use fork and go.</i>
+<br><br>
+<b><a href="https://github.com/mrchucu1/resume-template">➡️ View on GitHub</a></b>
+</details>
+
 <details open>
 <summary><strong><g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji> Vulnerability Deep Dive: "Dirty Pipe" Exploit (CVE-2022-0847)</strong></summary>
 <br>
