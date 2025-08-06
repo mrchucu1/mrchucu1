@@ -85,7 +85,7 @@ A hands-on analysis and replication of the "Dirty Pipe" privilege escalation vul
   <img src="https://github-readme-stats.vercel.app/api?username=mrchucu1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchucu1&layout=compact&langs_count=8&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrchucu1&theme=dark&mode=weekly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrchucu1&theme=dark&mode=daily" />
 </p>
 
 ---
